@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/home/marcelom/.screenlayout/display.sh &
+
+nitrogen --restore &
