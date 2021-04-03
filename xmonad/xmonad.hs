@@ -26,4 +26,4 @@ main = do
 
 myTerminal 	= "terminator"
 myModMask 	= mod4Mask
-myBorderWidth 	= 3
+myBorderWidth 	= 2
